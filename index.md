@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# *C'EST PAR NOS ACTIONS QUE NOUS NOUS DÉFINISSONS*
+## Escadron Griffons, c'est quoi ?
 
-You can use the [editor on GitHub](https://github.com/EscadronGriffons/escadrongriffons.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Escadron Griffons* est un groupe steam de plus de 800 personnes géré par des gens geniaux dont [Berlynx](https://steamcommunity.com/id/Berlynx) et [NicolasRush](https://steamcommunity.com/profiles/76561198036252869), ce groupe est basé sur les jeux-vidéos et autres choses se faisant sur internet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Escadron Griffons, c´est qui ?
 
-### Markdown
+Principalement des gamers, voici toute l´équipe de modération
+[Berlynx](https://steamcommunity.com/id/Berlynx) - Administrateur - Fondateur
+[NicolasRush](https://steamcommunity.com/profiles/76561198036252869) - Administrateur - Fondateur
+[Fawncy](https://steamcommunity.com/profiles/76561198090478897) - Modératrice
+[Anzû 亗](https://steamcommunity.com/id/AnzuFR) - Modérateur
+[wilhem01](https://steamcommunity.com/profiles/76561198057088070) - Modérateur
+[guy_p / Loganette](https://steamcommunity.com/profiles/76561198082857926) - Modérateur
+[Jus De Patate](https://steamcommunity.com/id/jusdepatate) - Modérateur - Chargé de l´accueil des -16 ans (le gars qui écrit ces lignes la)
+[K@mel_54](https://steamcommunity.com/profiles/76561197989500193) - Modérateur
+[SRGamingFR (James Brook)](https://steamcommunity.com/id/srgamingfr) - Modérateur - Coordinateur des projets
+[N0utch_](https://steamcommunity.com/id/kmillezol) - Modératrice - Mamie de service
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Escadron Griffons, pourquoi ?
 
-```markdown
-Syntax highlighted code block
+Nous avons un Discord et un forum (sur steam) avec des gens sympathiques et acceuillant
 
-# Header 1
-## Header 2
-### Header 3
+## Escadron Griffons, ça date de quand ?
 
-- Bulleted
-- List
+La première "version" de l´*es.gr* date de 2012 sous le nom *Escouade Griffons* qui durera de juin 2012 a juillet 2016.
+La seconde "version" fut la *Brigade Tiger* qui ne durera qu´un an (juillet 2016 -> juillet 2017)
+Actuellement, l´*Escadron Griffons* actuel date de juillet 2017 et se porte tres bien...
 
-1. Numbered
-2. List
+## Ça a l´air génial, comme vous rejoindre ?
 
-**Bold** and _Italic_ and `Code` text
+C´est simple :
 
-[Link](url) and ![Image](src)
-```
+1. **Vous envoyez un mp a un des modérateur/administrateurs cité au dessus**
+2. **Attendez de recevoir une invitation, et vous voila dans l´escadron !**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EscadronGriffons/escadrongriffons.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Fait par [Jus De Patate](https://github.com/jusdepatate), un des modérateurs de l´escadron
+### [Voir tout les autres contributeurs](https://github.com/EscadronGriffons/escadrongriffons.github.io/graphs/contributors)
