@@ -1,5 +1,5 @@
 ---
-title: Escadron Griffons
+title: Acceuil
 ---
 ## Escadron Griffons, c'est quoi ?
 
