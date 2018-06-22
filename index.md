@@ -46,5 +46,5 @@ C'est simple :
 1. **Vous envoyez un mp a un des modérateur/administrateurs cité au dessus**
 2. **Attendez de recevoir une invitation, et vous voila dans l'escadron !**
 
-### Fait par [Jus De Patate](https://github.com/jusdepatate), un des modérateurs de l´escadron
+### Fait par [Jus De Patate](https://github.com/jusdepatate), un des modérateurs de l'escadron
 *[Voir tous les autres contributeurs](https://github.com/EscadronGriffons/escadrongriffons.github.io/graphs/contributors)*
