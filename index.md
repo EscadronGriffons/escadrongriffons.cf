@@ -39,7 +39,7 @@ La première "version" de l´*es.gr* date de 2012 sous le nom *Escouade Griffons
 La seconde "version" fut la *Brigade Tiger* qui ne durera qu´un an (juillet 2016 -> juillet 2017)
 Actuellement, l´*Escadron Griffons* date de juillet 2017 et se porte tres bien...
 
-## Ça a l'air génial, comme vous rejoindre ?
+## Ça a l'air génial, comment vous rejoindre ?
 
 C'est simple :
 
