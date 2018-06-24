@@ -29,13 +29,19 @@ Principalement des gamers, voici toute l´équipe de modération :
 
 [N0utch_](https://steamcommunity.com/id/kmillezol) - Modératrice - Mamie de service
 
+[Nara](https://steamcommunity.com/profiles/76561198096574627) - Graphiste
+
 ## Escadron Griffons, pourquoi ?
 
 Nous avons un Discord et un forum (sur steam) avec des gens sympathiques et acceuillant
 
+## Escadron Griffons, vous faites quoi ?
+
+De tout ! Certains font du CS:GO, Euro Truck Simulator 2, nous avons également une section F2P qui test avec les membres du groupe des jeux F2P (de Battle Royale a jeu de baston en passant par tout le reste)
+
 ## Escadron Griffons, ça date de quand ?
 
-La première "version" de l´*es.gr* date de 2012 sous le nom *Escouade Griffons* qui durera de juin 2012 a juillet 2016.
+La première "version" de l´*ES.GR* date de 2012 sous le nom *Escouade Griffons* qui durera de juin 2012 a juillet 2016.
 La seconde "version" fut la *Brigade Tiger* qui ne durera qu´un an (juillet 2016 -> juillet 2017)
 Actuellement, l´*Escadron Griffons* date de juillet 2017 et se porte tres bien...
 
