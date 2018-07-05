@@ -45,6 +45,11 @@ La première "version" de l´*ES.GR* date de 2012 sous le nom *Escouade Griffons
 La seconde "version" fut la *Brigade Tiger* qui ne durera qu´un an (juillet 2016 -> juillet 2017)
 Actuellement, l´*Escadron Griffons* date de juillet 2017 et se porte tres bien...
 
+## Escadron Griffons, c'est fun ?
+
+![N0utch_, Attention Heretics & Jus de Patate sur TABG](https://raw.githubusercontent.com/EscadronGriffons/esgr.cf/master/media/20180705141543_1.jpg)
+
+
 ## Ça a l'air génial, comment vous rejoindre ?
 
 C'est simple :
