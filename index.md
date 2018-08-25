@@ -48,7 +48,12 @@ Actuellement, l´*Escadron Griffons* date de juillet 2017 et se porte tres bien.
 ## Escadron Griffons, c'est fun ?
 
 ![N0utch_, Attention Heretics & Jus de Patate sur TABG](https://raw.githubusercontent.com/EscadronGriffons/esgr.cf/master/media/20180705141543_1.jpg)
-
+![N0utch_, Attention Heretics & Jus de Patate sur TABG](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/tabg-n0utch-heretic-jdp.jpg)
+![Nooody & Jus de Patate sur Left 4 Dead 2](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/l4d-nooody-jdp.jpg)
+![N0utch_, Jus de Patate & des amis sur Left 4 Dead 2](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/l4d-n0utch-jdp.jpg)
+![N0utch_ & Attention Heretics sur Borderland](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/b2-n0utch-heretic.jpg)
+![N0utch_ & Attention Heretics sur Borderland](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/b2-n0utch-heretic-2.jpg)
+![N0utch_ & Attention Heretics sur Borderland](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/b2-heretic-n0utch.jpg)
 
 ## Ça a l'air génial, comment vous rejoindre ?
 
