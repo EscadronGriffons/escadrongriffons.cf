@@ -3,7 +3,7 @@ title: Acceuil
 ---
 ## Escadron Griffons, c'est quoi ?
 
-*Escadron Griffons* est un groupe steam de plus de 800 personnes géré par des gens geniaux dont [Berlynx](https://steamcommunity.com/id/Berlynx) et [NicolasRush](https://steamcommunity.com/profiles/76561198036252869), ce groupe est basé sur les jeux-vidéos et autres choses se faisant sur internet
+*Escadron Griffons* est un groupe steam de plus de 900 personnes géré par des gens geniaux dont [Berlynx](https://steamcommunity.com/id/Berlynx) et [NicolasRush](https://steamcommunity.com/profiles/76561198036252869), ce groupe est basé sur les jeux-vidéos et autres choses se faisant sur internet
 
 ## Escadron Griffons, c'est qui ?
 
