@@ -64,3 +64,4 @@ C'est simple :
 
 ### Fait par [Jus De Patate](https://github.com/jusdepatate), un des modérateurs de l'escadron
 *[Voir tous les autres contributeurs](https://github.com/EscadronGriffons/escadrongriffons.github.io/graphs/contributors)*
+*Screenshots offert par [Jus de Patate](https://steamcommunity.com/id/jusdepatate/) et [Attention Heretics](https://steamcommunity.com/id/attentionheretics/)*
