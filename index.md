@@ -54,6 +54,7 @@ Actuellement, l´*Escadron Griffons* date de juillet 2017 et se porte tres bien.
 ![N0utch_ & Attention Heretics sur Borderland](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/b2-n0utch-heretic.jpg)
 ![N0utch_ & Attention Heretics sur Borderland](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/b2-n0utch-heretic-2.jpg)
 ![N0utch_ & Attention Heretics sur Borderland](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/b2-heretic-n0utch.jpg)
+![Nooody, Jus de Patate & des amis sur Warframe](https://github.com/EscadronGriffons/esgr.cf/raw/master/media/wf-nooody-jdp.jpg)
 
 ## Ça a l'air génial, comment vous rejoindre ?
 
